@@ -23,13 +23,13 @@ repository               : "vmouchakis/vmouchakis.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Vasilis Mouchakis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Science @ Dialectica"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Dialectica"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vmouchakis@gmail.com" 
 
   # Academic websites
   academia         : # URL
